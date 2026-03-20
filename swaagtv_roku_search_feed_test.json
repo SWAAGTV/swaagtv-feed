@@ -4,103 +4,670 @@
   "defaultAvailabilityCountries": ["us"],
   "assets": [
     {
-      "id": "black-american-experience",
+      "id": "swaagtv-black-american-experience",
       "type": "series",
-      "titles": [{"value": "BLACK AMERICAN EXPERIENCE","languages": ["en"]}],
-      "shortDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "BLACK AMERICAN EXPERIENCE (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "BLACK AMERICAN EXPERIENCE on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "BLACK AMERICAN EXPERIENCE is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["documentary"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/BLACK%20AMERICAN%20EXPERIENCE.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "kasi-car-culture",
+      "id": "swaagtv-black-tax",
       "type": "series",
-      "titles": [{"value": "KASI CAR CULTURE","languages": ["en"]}],
-      "shortDescriptions": [{"value": "KASI CAR CULTURE on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "KASI CAR CULTURE featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "BLACK TAX (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "BLACK TAX on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "BLACK TAX is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/BLACK%20TAX.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-driving-excellence-and-impact",
+      "type": "series",
+      "titles": [
+        {
+          "value": "DRIVING EXCELLENCE AND IMPACT (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "DRIVING EXCELLENCE AND IMPACT on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "DRIVING EXCELLENCE AND IMPACT is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["documentary"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/DRIVING%20EXCELLENCE%20AND%20IMPACT.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "mind-matters",
+      "id": "swaagtv-hush",
       "type": "series",
-      "titles": [{"value": "MIND MATTERS","languages": ["en"]}],
-      "shortDescriptions": [{"value": "MIND MATTERS on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "MIND MATTERS featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "HUSH (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HUSH on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "HUSH is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/HUSH.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-jacobs-cross",
+      "type": "series",
+      "titles": [
+        {
+          "value": "JACOBS CROSS (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "JACOBS CROSS on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "JACOBS CROSS is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/JACOBS%20CROSS.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-kasi-car-culture",
+      "type": "series",
+      "titles": [
+        {
+          "value": "KASI CAR CULTURE (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KASI CAR CULTURE on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "KASI CAR CULTURE is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["documentary"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/KASI%20CAR%20CULTURE.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-mind-matters",
+      "type": "series",
+      "titles": [
+        {
+          "value": "MIND MATTERS (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "MIND MATTERS on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "MIND MATTERS is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["health"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/MIND%20MATTERS.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "music-revolution",
+      "id": "swaagtv-music-revolution",
       "type": "series",
-      "titles": [{"value": "MUSIC REVOLUTION","languages": ["en"]}],
-      "shortDescriptions": [{"value": "MUSIC REVOLUTION on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "MUSIC REVOLUTION featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "MUSIC REVOLUTION (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "MUSIC REVOLUTION on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "MUSIC REVOLUTION is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["music"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/MUSIC%20REVOLUTION.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "real-health",
+      "id": "swaagtv-real-health",
       "type": "series",
-      "titles": [{"value": "REAL HEALTH","languages": ["en"]}],
-      "shortDescriptions": [{"value": "REAL HEALTH on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "REAL HEALTH featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "REAL HEALTH (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "REAL HEALTH on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "REAL HEALTH is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["health"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/REAL%20HEALTH.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "supercars",
+      "id": "swaagtv-supercars",
       "type": "series",
-      "titles": [{"value": "SUPERCARS","languages": ["en"]}],
-      "shortDescriptions": [{"value": "SUPERCARS on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "SUPERCARS featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "SUPERCARS (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "SUPERCARS on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "SUPERCARS is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["documentary"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/SUPERCARS.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "the-smart-money-woman",
+      "id": "swaagtv-black-entertainment",
       "type": "series",
-      "titles": [{"value": "THE SMART MONEY WOMAN","languages": ["en"]}],
-      "shortDescriptions": [{"value": "THE SMART MONEY WOMAN on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "THE SMART MONEY WOMAN featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "SWAAGTV BLACK ENTERTAINMENT (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "SWAAGTV BLACK ENTERTAINMENT on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "SWAAGTV BLACK ENTERTAINMENT is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["entertainment"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/SWAAGTV%20BLACK%20ENTERTAINMENT.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-the-olive",
+      "type": "series",
+      "titles": [
+        {
+          "value": "THE OLIVE (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "THE OLIVE on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "THE OLIVE is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["drama"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/THE%20OLIVE.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "visa-on-arrival-season2",
+      "id": "swaagtv-the-smart-money-woman",
       "type": "series",
-      "titles": [{"value": "VISA ON ARRIVAL-SEASON2","languages": ["en"]}],
-      "shortDescriptions": [{"value": "VISA ON ARRIVAL on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "VISA ON ARRIVAL featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "THE SMART MONEY WOMAN (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "THE SMART MONEY WOMAN on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "THE SMART MONEY WOMAN is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["drama"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/THE%20SMART%20MONEY%20WOMAN.png",
+          "languages": ["en"]
+        }
+      ]
     },
     {
-      "id": "what-s-really-goin-on",
+      "id": "swaagtv-the-wild",
       "type": "series",
-      "titles": [{"value": "WHAT'S REALLY GOIN ON","languages": ["en"]}],
-      "shortDescriptions": [{"value": "WHAT'S REALLY GOIN ON on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "WHAT'S REALLY GOIN ON featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [
+        {
+          "value": "THE WILD (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "THE WILD on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "THE WILD is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/THE%20WILD.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-tomorrows-world",
+      "type": "series",
+      "titles": [
+        {
+          "value": "TOMORROWS WORLD (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "TOMORROWS WORLD on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "TOMORROWS WORLD is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["religious"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/TOMORROWS%20WORLD.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-visa-on-arrival",
+      "type": "series",
+      "titles": [
+        {
+          "value": "VISA ON ARRIVAL (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "VISA ON ARRIVAL on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "VISA ON ARRIVAL is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/VISA%20ON%20ARRIVAL.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-whats-really-goin-on-news",
+      "type": "series",
+      "titles": [
+        {
+          "value": "WHATS REALLY GOIN ON NEWS (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "WHATS REALLY GOIN ON NEWS on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "WHATS REALLY GOIN ON NEWS is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
       "releaseDate": "2026-01-26",
       "genres": ["news"],
-      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
-      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/WHATS%20REALLY%20GOIN%20ON%20NEWS.png",
+          "languages": ["en"]
+        }
+      ]
+    },
+    {
+      "id": "swaagtv-black-movies",
+      "type": "series",
+      "titles": [
+        {
+          "value": "BLACK MOVIES (SWAAGTV)",
+          "languages": ["en"]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "BLACK MOVIES on SWAAGTV.",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "BLACK MOVIES is part of the SWAAGTV programming lineup.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2026-01-26",
+      "genres": ["drama"],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-G"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/BLACK%20MOVIES.png",
+          "languages": ["en"]
+        }
+      ]
     }
   ]
 }
