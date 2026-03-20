@@ -1,978 +1,107 @@
 {
   "version": "1",
   "defaultLanguage": "en",
-  "defaultAvailabilityCountries": [
-    "us"
-  ],
+  "defaultAvailabilityCountries": ["us"],
   "assets": [
-    {
-      "id": "wonderama",
-      "type": "series",
-      "titles": [
-        {
-          "value": "WONDERAMA",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "WONDERAMA as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "WONDERAMA is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "children"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "living-church-of-god",
-      "type": "series",
-      "titles": [
-        {
-          "value": "LIVING CHURCH OF GOD",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "LIVING CHURCH OF GOD as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "LIVING CHURCH OF GOD is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "religious"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tomorrow-s-world",
-      "type": "series",
-      "titles": [
-        {
-          "value": "TOMORROW'S WORLD",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "TOMORROW'S WORLD as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "TOMORROW'S WORLD is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "religious"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
+
     {
       "id": "kasi-car-culture",
       "type": "series",
-      "titles": [
-        {
-          "value": "KASI CAR CULTURE",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "KASI CAR CULTURE as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "KASI CAR CULTURE is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "KASI CAR CULTURE","languages": ["en"]}],
+      "shortDescriptions": [{"value": "KASI CAR CULTURE on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "KASI CAR CULTURE featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "entertainment"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["entertainment"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/KASI%20CAR%20CULTURE.jpg","languages":["en"]}]
     },
+
     {
       "id": "supercars",
       "type": "series",
-      "titles": [
-        {
-          "value": "SUPERCARS",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "SUPERCARS as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "SUPERCARS is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "SUPERCARS","languages": ["en"]}],
+      "shortDescriptions": [{"value": "SUPERCARS on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "SUPERCARS featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "automotive"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["automotive"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/SUPERCARS.png","languages":["en"]}]
     },
-    {
-      "id": "what-s-really-goin-on",
-      "type": "series",
-      "titles": [
-        {
-          "value": "WHAT'S REALLY GOIN ON",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "WHAT'S REALLY GOIN ON as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "WHAT'S REALLY GOIN ON is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "news"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "finest-homes",
-      "type": "series",
-      "titles": [
-        {
-          "value": "FINEST HOMES",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "FINEST HOMES as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "FINEST HOMES is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "entertainment"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
+
     {
       "id": "real-health",
       "type": "series",
-      "titles": [
-        {
-          "value": "REAL HEALTH",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "REAL HEALTH as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "REAL HEALTH is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "REAL HEALTH","languages": ["en"]}],
+      "shortDescriptions": [{"value": "REAL HEALTH on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "REAL HEALTH featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "health"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["health"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/REAL%20HEALTH%20POSTER.jpg","languages":["en"]}]
     },
+
     {
       "id": "black-american-experience",
       "type": "series",
-      "titles": [
-        {
-          "value": "BLACK AMERICAN EXPERIENCE",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "BLACK AMERICAN EXPERIENCE as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "BLACK AMERICAN EXPERIENCE is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "BLACK AMERICAN EXPERIENCE","languages": ["en"]}],
+      "shortDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "entertainment"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["entertainment"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/BLACK%20AMERICAN%20EXPERIENCE.jpg","languages":["en"]}]
     },
+
     {
       "id": "mind-matters",
       "type": "series",
-      "titles": [
-        {
-          "value": "MIND MATTERS",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "MIND MATTERS as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "MIND MATTERS is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "MIND MATTERS","languages": ["en"]}],
+      "shortDescriptions": [{"value": "MIND MATTERS on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "MIND MATTERS featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "health"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["health"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MIND%20MATTERS.jpg","languages":["en"]}]
     },
+
     {
       "id": "music-revolution",
       "type": "series",
-      "titles": [
-        {
-          "value": "MUSIC REVOLUTION",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "MUSIC REVOLUTION as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "MUSIC REVOLUTION is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "MUSIC REVOLUTION","languages": ["en"]}],
+      "shortDescriptions": [{"value": "MUSIC REVOLUTION on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "MUSIC REVOLUTION featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "music"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["music"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MUSIC%20REVOLUTION.jpg","languages":["en"]}]
     },
+
     {
-      "id": "black-tax",
+      "id": "what-s-really-goin-on",
       "type": "series",
-      "titles": [
-        {
-          "value": "BLACK TAX",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "BLACK TAX as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "BLACK TAX is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "WHAT'S REALLY GOIN ON","languages": ["en"]}],
+      "shortDescriptions": [{"value": "WHAT'S REALLY GOIN ON on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "WHAT'S REALLY GOIN ON featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["news"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/WHAT%27S%20REALLY%20GOIN%20ON%20NEWS.jpg","languages":["en"]}]
     },
-    {
-      "id": "visa-on-arrival-season2",
-      "type": "series",
-      "titles": [
-        {
-          "value": "VISA ON ARRIVAL-SEASON2",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "VISA ON ARRIVAL-SEASON2 as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "VISA ON ARRIVAL-SEASON2 is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "entertainment"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hush",
-      "type": "series",
-      "titles": [
-        {
-          "value": "HUSH",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "HUSH as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "HUSH is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "driving-excellence-and-impact",
-      "type": "series",
-      "titles": [
-        {
-          "value": "DRIVING EXCELLENCE AND IMPACT",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "DRIVING EXCELLENCE AND IMPACT as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "DRIVING EXCELLENCE AND IMPACT is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "automotive"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jacob-s-cross",
-      "type": "series",
-      "titles": [
-        {
-          "value": "JACOB'S CROSS",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "JACOB'S CROSS as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "JACOB'S CROSS is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
+
     {
       "id": "the-smart-money-woman",
       "type": "series",
-      "titles": [
-        {
-          "value": "THE SMART MONEY WOMAN",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "THE SMART MONEY WOMAN as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "THE SMART MONEY WOMAN is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "THE SMART MONEY WOMAN","languages": ["en"]}],
+      "shortDescriptions": [{"value": "THE SMART MONEY WOMAN on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "THE SMART MONEY WOMAN featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["drama"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/THE%20SMART%20MONEY%20WOMAN.png","languages":["en"]}]
     },
+
     {
-      "id": "the-wild",
+      "id": "visa-on-arrival-season2",
       "type": "series",
-      "titles": [
-        {
-          "value": "THE WILD",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "THE WILD as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "THE WILD is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
+      "titles": [{"value": "VISA ON ARRIVAL-SEASON2","languages": ["en"]}],
+      "shortDescriptions": [{"value": "VISA ON ARRIVAL on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "VISA ON ARRIVAL featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "the-olive-season2",
-      "type": "series",
-      "titles": [
-        {
-          "value": "THE OLIVE-SEASON2",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "THE OLIVE-SEASON2 as listed on the SWAAGTV weekly program schedule.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "THE OLIVE-SEASON2 is included in the SWAAGTV program lineup. This metadata entry was generated from the SWAAGTV generic weekly program grid for Roku Search test-feed setup.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2026-01-26",
-      "genres": [
-        "drama"
-      ],
-      "advisoryRatings": [
-        {
-          "source": "USA_PR",
-          "value": "TVG"
-        },
-        {
-          "source": "RTC",
-          "value": "A"
-        }
-      ],
-      "images": [
-        {
-          "type": "main",
-          "url": "https://static.wixstatic.com/media/64790d_f45a0f46bf8a49c8b9bd948d2df9f08a~mv2.jpg",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
+      "genres": ["entertainment"],
+      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/VISA%20ON%20ARRIVAL.jpg","languages":["en"]}]
     }
+
   ]
 }
