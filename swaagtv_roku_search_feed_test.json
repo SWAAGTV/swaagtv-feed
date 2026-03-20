@@ -3,40 +3,6 @@
   "defaultLanguage": "en",
   "defaultAvailabilityCountries": ["us"],
   "assets": [
-
-    {
-      "id": "kasi-car-culture",
-      "type": "series",
-      "titles": [{"value": "KASI CAR CULTURE","languages": ["en"]}],
-      "shortDescriptions": [{"value": "KASI CAR CULTURE on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "KASI CAR CULTURE featured on SWAAGTV.","languages": ["en"]}],
-      "releaseDate": "2026-01-26",
-      "genres": ["entertainment"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/KASI%20CAR%20CULTURE.jpg","languages":["en"]}]
-    },
-
-    {
-      "id": "supercars",
-      "type": "series",
-      "titles": [{"value": "SUPERCARS","languages": ["en"]}],
-      "shortDescriptions": [{"value": "SUPERCARS on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "SUPERCARS featured on SWAAGTV.","languages": ["en"]}],
-      "releaseDate": "2026-01-26",
-      "genres": ["automotive"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/SUPERCARS.png","languages":["en"]}]
-    },
-
-    {
-      "id": "real-health",
-      "type": "series",
-      "titles": [{"value": "REAL HEALTH","languages": ["en"]}],
-      "shortDescriptions": [{"value": "REAL HEALTH on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "REAL HEALTH featured on SWAAGTV.","languages": ["en"]}],
-      "releaseDate": "2026-01-26",
-      "genres": ["health"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/REAL%20HEALTH%20POSTER.jpg","languages":["en"]}]
-    },
-
     {
       "id": "black-american-experience",
       "type": "series",
@@ -44,10 +10,21 @@
       "shortDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE on SWAAGTV.","languages": ["en"]}],
       "longDescriptions": [{"value": "BLACK AMERICAN EXPERIENCE featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": ["entertainment"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/BLACK%20AMERICAN%20EXPERIENCE.jpg","languages":["en"]}]
+      "genres": ["documentary"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     },
-
+    {
+      "id": "kasi-car-culture",
+      "type": "series",
+      "titles": [{"value": "KASI CAR CULTURE","languages": ["en"]}],
+      "shortDescriptions": [{"value": "KASI CAR CULTURE on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "KASI CAR CULTURE featured on SWAAGTV.","languages": ["en"]}],
+      "releaseDate": "2026-01-26",
+      "genres": ["documentary"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+    },
     {
       "id": "mind-matters",
       "type": "series",
@@ -56,9 +33,9 @@
       "longDescriptions": [{"value": "MIND MATTERS featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
       "genres": ["health"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MIND%20MATTERS.jpg","languages":["en"]}]
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     },
-
     {
       "id": "music-revolution",
       "type": "series",
@@ -67,20 +44,31 @@
       "longDescriptions": [{"value": "MUSIC REVOLUTION featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
       "genres": ["music"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MUSIC%20REVOLUTION.jpg","languages":["en"]}]
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     },
-
     {
-      "id": "what-s-really-goin-on",
+      "id": "real-health",
       "type": "series",
-      "titles": [{"value": "WHAT'S REALLY GOIN ON","languages": ["en"]}],
-      "shortDescriptions": [{"value": "WHAT'S REALLY GOIN ON on SWAAGTV.","languages": ["en"]}],
-      "longDescriptions": [{"value": "WHAT'S REALLY GOIN ON featured on SWAAGTV.","languages": ["en"]}],
+      "titles": [{"value": "REAL HEALTH","languages": ["en"]}],
+      "shortDescriptions": [{"value": "REAL HEALTH on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "REAL HEALTH featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": ["news"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/WHAT%27S%20REALLY%20GOIN%20ON%20NEWS.jpg","languages":["en"]}]
+      "genres": ["health"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     },
-
+    {
+      "id": "supercars",
+      "type": "series",
+      "titles": [{"value": "SUPERCARS","languages": ["en"]}],
+      "shortDescriptions": [{"value": "SUPERCARS on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "SUPERCARS featured on SWAAGTV.","languages": ["en"]}],
+      "releaseDate": "2026-01-26",
+      "genres": ["documentary"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+    },
     {
       "id": "the-smart-money-woman",
       "type": "series",
@@ -89,9 +77,9 @@
       "longDescriptions": [{"value": "THE SMART MONEY WOMAN featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
       "genres": ["drama"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/THE%20SMART%20MONEY%20WOMAN.png","languages":["en"]}]
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     },
-
     {
       "id": "visa-on-arrival-season2",
       "type": "series",
@@ -99,9 +87,20 @@
       "shortDescriptions": [{"value": "VISA ON ARRIVAL on SWAAGTV.","languages": ["en"]}],
       "longDescriptions": [{"value": "VISA ON ARRIVAL featured on SWAAGTV.","languages": ["en"]}],
       "releaseDate": "2026-01-26",
-      "genres": ["entertainment"],
-      "images": [{"type":"main","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/VISA%20ON%20ARRIVAL.jpg","languages":["en"]}]
+      "genres": ["drama"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
+    },
+    {
+      "id": "what-s-really-goin-on",
+      "type": "series",
+      "titles": [{"value": "WHAT'S REALLY GOIN ON","languages": ["en"]}],
+      "shortDescriptions": [{"value": "WHAT'S REALLY GOIN ON on SWAAGTV.","languages": ["en"]}],
+      "longDescriptions": [{"value": "WHAT'S REALLY GOIN ON featured on SWAAGTV.","languages": ["en"]}],
+      "releaseDate": "2026-01-26",
+      "genres": ["news"],
+      "advisoryRatings": [{"source": "USA_PR","value": "TV-G"}],
+      "images": [{"type":"poster","url":"https://raw.githubusercontent.com/SWAAGTV/swaagtv-feed/main/images/MOVIE.png","languages":["en"]}]
     }
-
   ]
 }
